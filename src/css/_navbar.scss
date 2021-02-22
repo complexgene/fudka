@@ -1,0 +1,45 @@
+.link_decorate {
+  text-decoration: none;
+  font-size: 1rem;
+  color: black;
+}
+
+.fudka_navbar {
+  border-color: yellowgreen;
+  border-width: 2px;
+}
+
+.fudka_navbar_left > ul {
+  list-style-type: none;
+}
+
+.link_hover {
+  padding: 0.8rem;
+}
+
+.link_hover:hover {
+  background: rgb(32, 75, 139);
+  color: white;
+}
+
+.fudka_navbar_left > ul > li {
+  padding: 1rem;
+  list-style-type: none;
+}
+
+.coming_soon {
+  color: black;
+  font-size: 9px;
+  font-weight: bold;
+  background-color: rgb(223, 215, 101);
+  border-radius: 2px;
+  padding: 1px;
+}
+.navbar_home {
+  background-color: cornflowerblue;
+  color: black;
+}
+.content {
+  margin: 10px 0px 0px 10px;
+  width: 83vw;
+}

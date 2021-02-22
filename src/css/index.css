@@ -1,0 +1,74 @@
+.banner-box-translate {
+  right: 0.5%;
+  top: 1px;
+  position: absolute;
+  color: black;
+}
+
+.banner_box {
+  width: 100vw;
+  position: static;
+  color: #ada8a8;
+  font-weight: bolder;
+  margin-top: -10px;
+  padding: 20px 0px 25px 20px;
+  font-family: "Rubik", sans-serif;
+  font-size: 70%;
+}
+
+.link_decorate {
+  text-decoration: none;
+  font-size: 1rem;
+  color: black;
+}
+
+.fudka_navbar {
+  border-color: yellowgreen;
+  border-width: 2px;
+}
+
+.fudka_navbar_left > ul {
+  list-style-type: none;
+}
+
+.link_hover {
+  padding: 0.8rem;
+}
+
+.link_hover:hover {
+  background: #204b8b;
+  color: white;
+}
+
+.fudka_navbar_left > ul > li {
+  padding: 1rem;
+  list-style-type: none;
+}
+
+.coming_soon {
+  color: black;
+  font-size: 9px;
+  font-weight: bold;
+  background-color: #dfd765;
+  border-radius: 2px;
+  padding: 1px;
+}
+
+.navbar_home {
+  background-color: cornflowerblue;
+  color: black;
+}
+
+.content {
+  margin: 10px 0px 0px 10px;
+  width: 83vw;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+}
+/*# sourceMappingURL=index.css.map */
